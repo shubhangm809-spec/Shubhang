@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+ddgs
+beautifulsoup4
+chromadb
+pypdf
+python-multipart
